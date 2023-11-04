@@ -1,0 +1,27 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Valenzuela;Jose;;;
+FN:Jose Valenzuela
+ORG:LingoAid LLC
+ADR;TYPE=WORK:451 E North Bend Way #941
+North Bend, WA 98045
+TITLE:Chief Operating Officer (COO)
+TEL;TYPE=CELL:+14255402109
+TEL;TYPE=WORK:+18779582330
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:josev@lingoaid.co
+URL;TYPE=Digital Business Card:https://gitlab.com/jjlinux/lingoaid-vcf-cards/jj/index.html
+URL:https://lingoaid.co
+URL;TYPE=Signal:https://signal.me/#p/+18099352109
+URL;TYPE=Telegram:https://t.me/jjvoliver
+URL;TYPE=Website:https://lingoaid.co
+URL;TYPE=Calendar:https://book.lingoaid.co/#/customer/lingoaid
+URL;TYPE=LinkedIn:https://linkedin.com/company/lingoaid
+URL;TYPE=Mastodon:https://mastodon.social/@jjlinux
+URL;TYPE=GitHub:https://github.com/mofongox
+URL;TYPE=GitLab:https://gitlab.com/jjlinux
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:
+UID:EnBizCard-100378644
+END:VCARD
