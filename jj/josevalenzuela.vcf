@@ -11,7 +11,7 @@ TEL;TYPE=WORK:+18779582330
 TEL;TYPE=HOME:
 TEL;TYPE=MSG:
 EMAIL;TYPE=WORK:josev@lingoaid.co
-URL;TYPE=Digital Business Card:https://gitlab.com/jjlinux/lingoaid-vcf-cards/jj/index.html
+URL;TYPE=Digital Business Card:https://github.com/mofongox/lingoaid/tree/main/jj/index.html
 URL:https://lingoaid.co
 URL;TYPE=Signal:https://signal.me/#p/+18099352109
 URL;TYPE=Telegram:https://t.me/jjvoliver
@@ -23,5 +23,5 @@ URL;TYPE=GitHub:https://github.com/mofongox
 URL;TYPE=GitLab:https://gitlab.com/jjlinux
 KEY;TYPE=PGP;ENCODING=b:
 NOTE:
-UID:EnBizCard-100378644
+UID:EnBizCard-100310145
 END:VCARD
